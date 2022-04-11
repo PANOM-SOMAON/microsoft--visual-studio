@@ -1,0 +1,11 @@
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\bin\Debug\ModularChecker.exe.config
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\bin\Debug\ModularChecker.exe
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\bin\Debug\ModularChecker.pdb
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\obj\Debug\ModularChecker.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\obj\Debug\ModularChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\obj\Debug\ModularChecker.Form1.resources
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\obj\Debug\ModularChecker.Properties.Resources.resources
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\obj\Debug\ModularChecker.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\obj\Debug\ModularChecker.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\obj\Debug\ModularChecker.exe
+C:\Users\KING\source\repos\ModularChecker\ModularChecker\obj\Debug\ModularChecker.pdb
