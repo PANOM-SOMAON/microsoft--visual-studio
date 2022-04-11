@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.AssemblyInfo.cs
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.exe
+C:\Users\KING\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.deps.json
+C:\Users\KING\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.runtimeconfig.json
+C:\Users\KING\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.dll
+C:\Users\KING\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ref\ClassTest.dll
+C:\Users\KING\source\repos\ClassTest\ClassTest\bin\Debug\net6.0\ClassTest.pdb
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.dll
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ref\ClassTest.dll
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.pdb
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.genruntimeconfig.cache
+C:\Users\KING\source\repos\ClassTest\ClassTest\obj\Debug\net6.0\ClassTest.csproj.AssemblyReference.cache
