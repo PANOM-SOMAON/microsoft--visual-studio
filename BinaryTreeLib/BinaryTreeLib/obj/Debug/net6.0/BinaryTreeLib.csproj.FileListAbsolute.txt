@@ -1,0 +1,12 @@
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\bin\Debug\net6.0\BinaryTreeLib.deps.json
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\bin\Debug\net6.0\BinaryTreeLib.dll
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\bin\Debug\net6.0\BinaryTreeLib.pdb
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\BinaryTreeLib.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\BinaryTreeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\BinaryTreeLib.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\BinaryTreeLib.AssemblyInfo.cs
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\BinaryTreeLib.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\BinaryTreeLib.dll
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\refint\BinaryTreeLib.dll
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\BinaryTreeLib.pdb
+C:\Users\KING\source\repos\BinaryTreeLib\BinaryTreeLib\obj\Debug\net6.0\ref\BinaryTreeLib.dll

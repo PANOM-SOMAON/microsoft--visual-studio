@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BSTreeTest/1.0.0": {
+        "dependencies": {
+          "BinaryTreeLib": "1.0.0"
+        },
+        "runtime": {
+          "BSTreeTest.dll": {}
+        }
+      },
+      "BinaryTreeLib/1.0.0": {
+        "runtime": {
+          "BinaryTreeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSTreeTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinaryTreeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
