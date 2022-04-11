@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\bin\Debug\net6.0\GenRectangle.exe
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\bin\Debug\net6.0\GenRectangle.deps.json
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\bin\Debug\net6.0\GenRectangle.runtimeconfig.json
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\bin\Debug\net6.0\GenRectangle.dll
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\bin\Debug\net6.0\ref\GenRectangle.dll
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\bin\Debug\net6.0\GenRectangle.pdb
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\GenRectangle.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\GenRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\GenRectangle.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\GenRectangle.AssemblyInfo.cs
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\GenRectangle.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\GenRectangle.dll
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\ref\GenRectangle.dll
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\GenRectangle.pdb
+C:\Users\KING\source\repos\GenRectangle\GenRectangle\obj\Debug\net6.0\GenRectangle.genruntimeconfig.cache
