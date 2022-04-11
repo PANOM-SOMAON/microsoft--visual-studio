@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\bin\Debug\net6.0\MyDatabase.exe
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\bin\Debug\net6.0\MyDatabase.deps.json
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\bin\Debug\net6.0\MyDatabase.runtimeconfig.json
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\bin\Debug\net6.0\MyDatabase.dll
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\bin\Debug\net6.0\ref\MyDatabase.dll
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\bin\Debug\net6.0\MyDatabase.pdb
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\MyDatabase.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\MyDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\MyDatabase.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\MyDatabase.AssemblyInfo.cs
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\MyDatabase.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\MyDatabase.dll
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\ref\MyDatabase.dll
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\MyDatabase.pdb
+C:\Users\KING\source\repos\MyDatabase\MyDatabase\obj\Debug\net6.0\MyDatabase.genruntimeconfig.cache
