@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\สอบ2\สอบ2\bin\Debug\net6.0\สอบ2.exe
+C:\Users\KING\source\repos\สอบ2\สอบ2\bin\Debug\net6.0\สอบ2.deps.json
+C:\Users\KING\source\repos\สอบ2\สอบ2\bin\Debug\net6.0\สอบ2.runtimeconfig.json
+C:\Users\KING\source\repos\สอบ2\สอบ2\bin\Debug\net6.0\สอบ2.dll
+C:\Users\KING\source\repos\สอบ2\สอบ2\bin\Debug\net6.0\ref\สอบ2.dll
+C:\Users\KING\source\repos\สอบ2\สอบ2\bin\Debug\net6.0\สอบ2.pdb
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\สอบ2.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\สอบ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\สอบ2.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\สอบ2.AssemblyInfo.cs
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\สอบ2.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\สอบ2.dll
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\ref\สอบ2.dll
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\สอบ2.pdb
+C:\Users\KING\source\repos\สอบ2\สอบ2\obj\Debug\net6.0\สอบ2.genruntimeconfig.cache
