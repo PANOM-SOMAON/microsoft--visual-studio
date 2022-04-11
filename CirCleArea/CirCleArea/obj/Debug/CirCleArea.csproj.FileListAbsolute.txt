@@ -1,0 +1,11 @@
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\bin\Debug\CirCleArea.exe.config
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\bin\Debug\CirCleArea.exe
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\bin\Debug\CirCleArea.pdb
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\obj\Debug\CirCleArea.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\obj\Debug\CirCleArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\obj\Debug\CirCleArea.Form1.resources
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\obj\Debug\CirCleArea.Properties.Resources.resources
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\obj\Debug\CirCleArea.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\obj\Debug\CirCleArea.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\obj\Debug\CirCleArea.exe
+C:\Users\KING\source\repos\CirCleArea\CirCleArea\obj\Debug\CirCleArea.pdb
