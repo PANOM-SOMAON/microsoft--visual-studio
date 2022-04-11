@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ArrayQueusTest.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ArrayQueusTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ArrayQueusTest.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ArrayQueusTest.AssemblyInfo.cs
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ArrayQueusTest.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\bin\Debug\net6.0\ArrayQueusTest.exe
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\bin\Debug\net6.0\ArrayQueusTest.deps.json
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\bin\Debug\net6.0\ArrayQueusTest.runtimeconfig.json
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\bin\Debug\net6.0\ArrayQueusTest.dll
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\bin\Debug\net6.0\ref\ArrayQueusTest.dll
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\bin\Debug\net6.0\ArrayQueusTest.pdb
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ArrayQueusTest.dll
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ref\ArrayQueusTest.dll
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ArrayQueusTest.pdb
+C:\Users\KING\source\repos\ArrayQueusTest\ArrayQueusTest\obj\Debug\net6.0\ArrayQueusTest.genruntimeconfig.cache
