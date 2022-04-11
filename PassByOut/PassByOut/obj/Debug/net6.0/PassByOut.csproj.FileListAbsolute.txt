@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\PassByOut.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\PassByOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\PassByOut.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\PassByOut.AssemblyInfo.cs
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\PassByOut.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\PassByOut\PassByOut\bin\Debug\net6.0\PassByOut.exe
+C:\Users\KING\source\repos\PassByOut\PassByOut\bin\Debug\net6.0\PassByOut.deps.json
+C:\Users\KING\source\repos\PassByOut\PassByOut\bin\Debug\net6.0\PassByOut.runtimeconfig.json
+C:\Users\KING\source\repos\PassByOut\PassByOut\bin\Debug\net6.0\PassByOut.dll
+C:\Users\KING\source\repos\PassByOut\PassByOut\bin\Debug\net6.0\ref\PassByOut.dll
+C:\Users\KING\source\repos\PassByOut\PassByOut\bin\Debug\net6.0\PassByOut.pdb
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\PassByOut.dll
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\ref\PassByOut.dll
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\PassByOut.pdb
+C:\Users\KING\source\repos\PassByOut\PassByOut\obj\Debug\net6.0\PassByOut.genruntimeconfig.cache
