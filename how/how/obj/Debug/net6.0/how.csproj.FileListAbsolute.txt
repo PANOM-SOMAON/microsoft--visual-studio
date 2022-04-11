@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\how\how\bin\Debug\net6.0\how.exe
+C:\Users\KING\source\repos\how\how\bin\Debug\net6.0\how.deps.json
+C:\Users\KING\source\repos\how\how\bin\Debug\net6.0\how.runtimeconfig.json
+C:\Users\KING\source\repos\how\how\bin\Debug\net6.0\how.dll
+C:\Users\KING\source\repos\how\how\bin\Debug\net6.0\ref\how.dll
+C:\Users\KING\source\repos\how\how\bin\Debug\net6.0\how.pdb
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\how.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\how.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\how.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\how.AssemblyInfo.cs
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\how.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\how.dll
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\ref\how.dll
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\how.pdb
+C:\Users\KING\source\repos\how\how\obj\Debug\net6.0\how.genruntimeconfig.cache
