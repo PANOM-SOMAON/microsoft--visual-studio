@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\bin\Debug\net6.0\ArrayStackTest.exe
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\bin\Debug\net6.0\ArrayStackTest.deps.json
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\bin\Debug\net6.0\ArrayStackTest.runtimeconfig.json
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\bin\Debug\net6.0\ArrayStackTest.dll
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\bin\Debug\net6.0\ref\ArrayStackTest.dll
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\bin\Debug\net6.0\ArrayStackTest.pdb
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ArrayStackTest.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ArrayStackTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ArrayStackTest.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ArrayStackTest.AssemblyInfo.cs
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ArrayStackTest.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ArrayStackTest.dll
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ref\ArrayStackTest.dll
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ArrayStackTest.pdb
+C:\Users\KING\source\repos\ArrayStackTest\ArrayStackTest\obj\Debug\net6.0\ArrayStackTest.genruntimeconfig.cache
