@@ -1,0 +1,17 @@
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\bin\Debug\net6.0-windows\LabH4.3.exe
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\bin\Debug\net6.0-windows\LabH4.3.deps.json
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\bin\Debug\net6.0-windows\LabH4.3.runtimeconfig.json
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\bin\Debug\net6.0-windows\LabH4.3.dll
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\bin\Debug\net6.0-windows\ref\LabH4.3.dll
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\bin\Debug\net6.0-windows\LabH4.3.pdb
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4._3.Form1.resources
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.AssemblyInfo.cs
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.dll
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\ref\LabH4.3.dll
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.pdb
+C:\Users\KING\source\repos\LabH4.3\LabH4.3\obj\Debug\net6.0-windows\LabH4.3.genruntimeconfig.cache
