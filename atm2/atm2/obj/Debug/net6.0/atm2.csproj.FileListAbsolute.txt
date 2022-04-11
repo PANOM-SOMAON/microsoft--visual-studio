@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\atm2\atm2\bin\Debug\net6.0\atm2.exe
+C:\Users\KING\source\repos\atm2\atm2\bin\Debug\net6.0\atm2.deps.json
+C:\Users\KING\source\repos\atm2\atm2\bin\Debug\net6.0\atm2.runtimeconfig.json
+C:\Users\KING\source\repos\atm2\atm2\bin\Debug\net6.0\atm2.dll
+C:\Users\KING\source\repos\atm2\atm2\bin\Debug\net6.0\ref\atm2.dll
+C:\Users\KING\source\repos\atm2\atm2\bin\Debug\net6.0\atm2.pdb
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\atm2.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\atm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\atm2.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\atm2.AssemblyInfo.cs
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\atm2.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\atm2.dll
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\ref\atm2.dll
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\atm2.pdb
+C:\Users\KING\source\repos\atm2\atm2\obj\Debug\net6.0\atm2.genruntimeconfig.cache
