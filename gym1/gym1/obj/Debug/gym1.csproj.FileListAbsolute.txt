@@ -1,0 +1,16 @@
+C:\Users\KING\source\repos\gym1\gym1\bin\Debug\gym1.exe.config
+C:\Users\KING\source\repos\gym1\gym1\bin\Debug\gym1.exe
+C:\Users\KING\source\repos\gym1\gym1\bin\Debug\gym1.pdb
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.Properties.Resources.resources
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.exe
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.pdb
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.Login.resources
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.MainForm.resources
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.Add.resources
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.Delete_edit.resources
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.Data.resources
+C:\Users\KING\source\repos\gym1\gym1\obj\Debug\gym1.pay.resources
