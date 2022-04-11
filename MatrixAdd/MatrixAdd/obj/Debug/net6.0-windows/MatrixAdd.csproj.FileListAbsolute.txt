@@ -1,0 +1,17 @@
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\bin\Debug\net6.0-windows\MatrixAdd.exe
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\bin\Debug\net6.0-windows\MatrixAdd.deps.json
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\bin\Debug\net6.0-windows\MatrixAdd.runtimeconfig.json
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\bin\Debug\net6.0-windows\MatrixAdd.dll
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\bin\Debug\net6.0-windows\ref\MatrixAdd.dll
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\bin\Debug\net6.0-windows\MatrixAdd.pdb
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.Form1.resources
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.AssemblyInfo.cs
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.dll
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\ref\MatrixAdd.dll
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.pdb
+C:\Users\KING\source\repos\MatrixAdd\MatrixAdd\obj\Debug\net6.0-windows\MatrixAdd.genruntimeconfig.cache
