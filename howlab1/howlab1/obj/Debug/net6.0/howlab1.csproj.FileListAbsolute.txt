@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\howlab1\howlab1\bin\Debug\net6.0\howlab1.exe
+C:\Users\KING\source\repos\howlab1\howlab1\bin\Debug\net6.0\howlab1.deps.json
+C:\Users\KING\source\repos\howlab1\howlab1\bin\Debug\net6.0\howlab1.runtimeconfig.json
+C:\Users\KING\source\repos\howlab1\howlab1\bin\Debug\net6.0\howlab1.dll
+C:\Users\KING\source\repos\howlab1\howlab1\bin\Debug\net6.0\ref\howlab1.dll
+C:\Users\KING\source\repos\howlab1\howlab1\bin\Debug\net6.0\howlab1.pdb
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\howlab1.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\howlab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\howlab1.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\howlab1.AssemblyInfo.cs
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\howlab1.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\howlab1.dll
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\ref\howlab1.dll
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\howlab1.pdb
+C:\Users\KING\source\repos\howlab1\howlab1\obj\Debug\net6.0\howlab1.genruntimeconfig.cache
