@@ -1,0 +1,11 @@
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\bin\Debug\CirCleArea12.exe.config
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\bin\Debug\CirCleArea12.exe
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\bin\Debug\CirCleArea12.pdb
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\obj\Debug\CirCleArea12.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\obj\Debug\CirCleArea12.csproj.SuggestedBindingRedirects.cache
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\obj\Debug\CirCleArea12.Form1.resources
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\obj\Debug\CirCleArea12.Properties.Resources.resources
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\obj\Debug\CirCleArea12.csproj.GenerateResource.cache
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\obj\Debug\CirCleArea12.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\obj\Debug\CirCleArea12.exe
+C:\Users\KING\source\repos\CirCleArea12\CirCleArea12\obj\Debug\CirCleArea12.pdb
