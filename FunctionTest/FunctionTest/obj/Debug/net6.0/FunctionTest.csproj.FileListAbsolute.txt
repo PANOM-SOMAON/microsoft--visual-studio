@@ -1,0 +1,15 @@
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\bin\Debug\net6.0\FunctionTest.exe
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\bin\Debug\net6.0\FunctionTest.deps.json
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\bin\Debug\net6.0\FunctionTest.runtimeconfig.json
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\bin\Debug\net6.0\FunctionTest.dll
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\bin\Debug\net6.0\ref\FunctionTest.dll
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\bin\Debug\net6.0\FunctionTest.pdb
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\FunctionTest.csproj.AssemblyReference.cache
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\FunctionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\FunctionTest.AssemblyInfoInputs.cache
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\FunctionTest.AssemblyInfo.cs
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\FunctionTest.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\FunctionTest.dll
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\ref\FunctionTest.dll
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\FunctionTest.pdb
+C:\Users\KING\source\repos\FunctionTest\FunctionTest\obj\Debug\net6.0\FunctionTest.genruntimeconfig.cache
